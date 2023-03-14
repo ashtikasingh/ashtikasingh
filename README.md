@@ -9,6 +9,14 @@
 
 - ⚡ Fun fact **I'm happy going girl who do yoga and exercise! and alsooo codingg!!!!**
 
+- 💻 Coding Platforms
+
+- leetcode:- **ashtikasingh**
+- gfg:- **aashtika2002**
+- CodeChef:- **ashtika**
+- CodeStudio:- **https://www.codingninjas.com/codestudio/profile/4c040194-7dd4-48a8-80e4-e39ffdec7575**
+- HackerRank:- **aashtika2002**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ashtika-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashtika-singh" height="30" width="40" /></a>
