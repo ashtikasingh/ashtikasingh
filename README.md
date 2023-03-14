@@ -11,11 +11,11 @@
 
 - 💻 Coding Platforms
 
-- leetcode:- **ashtikasingh**
-- gfg:- **aashtika2002**
-- CodeChef:- **ashtika**
-- CodeStudio:- **https://www.codingninjas.com/codestudio/profile/4c040194-7dd4-48a8-80e4-e39ffdec7575**
-- HackerRank:- **aashtika2002**
+  LeetCode:- **ashtikasingh** <br/>
+  GFG:- **aashtika2002** <br/>
+  CodeChef:- **ashtika** <br/>
+  CodeStudio:- **https://www.codingninjas.com/codestudio/profile/4c040194-7dd4-48a8-80e4-e39ffdec7575** <br/>
+  HackerRank:- **aashtika2002** <br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
