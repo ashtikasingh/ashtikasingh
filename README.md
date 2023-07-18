@@ -30,8 +30,6 @@
     
  <a href="https://github.com/ashtikasingh">
     <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashtikasingh&show_icons=true&theme=maroongold " />-->
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtikasingh&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" />
+ <center><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtikasingh&theme=maroongold&hide_border=true&include_all_commits=true&hide_title=true" /></center>
   <br>
   <br>
- <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtikasingh&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
-<br> <br>
