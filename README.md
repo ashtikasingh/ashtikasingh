@@ -35,4 +35,3 @@
   <br>
  <img   width="48%" height ="200px" left ="600px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtikasingh&layout=compact&theme=maroongold&hide_border=true&hide_title=true" />
 <br> <br>
-<img alt="Ashtika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashtikasingh&theme=chartreuse-dark"></a>
